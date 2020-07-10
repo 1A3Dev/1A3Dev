@@ -11,6 +11,7 @@ I have been coding since around 2015 where I started off with Skript, Java & Pyt
 - Discord: JavaScript
 - FiveM: Lua, JavaScript, C#
 - Minecraft: Skript, Java
+- Web: HTML, JS, CSS, PHP
 
 ## Contact Details
 You can contact me via Discord (1A3#2128) or [Twitter](https://twitter.com/messages/compose?recipient_id=853951792723505152).
