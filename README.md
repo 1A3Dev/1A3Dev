@@ -13,4 +13,4 @@ I have been coding since around 2015 where I started off with Skript, Java & Pyt
 - Minecraft: Skript, Java
 
 ## Contact Details
-You can contact me via discord at 1A3#2128 or on [Twitter](https://twitter.com/messages/compose?recipient_id=853951792723505152).
+You can contact me via Discord (1A3#2128) or [Twitter](https://twitter.com/messages/compose?recipient_id=853951792723505152).
