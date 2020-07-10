@@ -1,5 +1,5 @@
-## Introduction
-I'm an 18 year old developer from England, UK.
+## About Me
+I'm an 18 year old developer from England, UK who owns a Discord server with 55k members & a verified discord bot with 400+ servers.
 
 ## Current Projects
 The main projects I am working on at the moment are:
