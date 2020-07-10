@@ -1,16 +1,16 @@
-### Hi there 👋
+## Introduction
+I'm an 18 year old developer from England, UK.
 
-<!--
-**1A3Dev/1A3Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Projects
+The main projects I am working on at the moment are:
+- [LogiBot](https://logibot.1a3.uk) which is a verified multipurpose discord bot with features such as [these](https://docs.logibot.1a3.uk/info/features)
+- A CAD system for [TXDPSRP](https://txdps-rp.com) FiveM server
 
-Here are some ideas to get you started:
+## My Experience
+I have been coding since around 2015/2016 and typically code in the following languages:
+- Discord: JavaScript
+- Minecraft: Skript, Java
+- FiveM: Lua, JavaScript, C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Details
+You can contact me via discord at 1A3#2128 or on [Twitter](https://twitter.com/messages/compose?recipient_id=853951792723505152)
