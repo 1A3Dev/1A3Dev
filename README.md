@@ -7,11 +7,10 @@ The main projects I am working on at the moment are:
 - A CAD system for [TXDPSRP](https://txdps-rp.com) FiveM server
 
 ## My Experience
-I have been coding since around 2015 and my main languages lately are:
+I have been coding since around 2015 where I started off with Skript, Java & Python; however I currently typically use:
 - Discord: JavaScript
 - FiveM: Lua, JavaScript, C#
 - Minecraft: Skript, Java
-I also do web development 
 
 ## Contact Details
 You can contact me via discord at 1A3#2128 or on [Twitter](https://twitter.com/messages/compose?recipient_id=853951792723505152)
