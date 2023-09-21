@@ -23,8 +23,8 @@
 **📫 How to Reach me:**
 <p align="left">
     <a href="https://twitter.com/1A3Dev" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" height="30" width="30" /></a>
-    <a href="https://twitch.tv/1A3Dev" target="blank"><img align="center" src="https://www.tailorbrands.com/wp-content/uploads/2021/04/twitch-logo.png" alt="Twitch" height="30" width="30" /></a>
     <a href="https://discord.com/users/303502679089348608" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4945/4945973.png" alt="Discord" height="30" width="30" /></a>
+    <a href="https://twitch.tv/1A3Dev" target="blank"><img align="center" src="https://www.tailorbrands.com/wp-content/uploads/2021/04/twitch-logo.png" alt="Twitch" height="30" width="30" /></a>
 </p>
 
 #### Thanks for visiting :heart:
