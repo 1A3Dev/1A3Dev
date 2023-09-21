@@ -20,12 +20,6 @@
 | **OS**                                          | ![Windows Badge](https://img.shields.io/badge/-Windows-black?style=flat&logo=Windows&logoColor=blue) ![Linux Badge](https://img.shields.io/badge/-Linux-3776AB?style=flat&logo=Linux&logoColor=white) |
 | **Tools & Platform**                            | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
 
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-![1A3Dev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1A3Dev&theme=github-compact)
-
-![1A3Dev's github stats](https://github-readme-stats.vercel.app/api?username=1A3Dev&show_icons=true&theme=radical&include_all_commits=true)
-
 **📫 How to Reach me:**
 <p align="left">
     <a href="https://twitter.com/1A3Dev" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" height="30" width="30" /></a>
