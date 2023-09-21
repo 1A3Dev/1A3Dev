@@ -22,7 +22,7 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-![1A3Dev's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=1A3Dev&theme=github-compact)
+![1A3Dev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1A3Dev&theme=github-compact)
 
 ![1A3Dev's github stats](https://github-readme-stats.vercel.app/api?username=1A3Dev&show_icons=true&theme=radical&include_all_commits=true)
 
