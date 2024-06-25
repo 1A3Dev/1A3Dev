@@ -13,7 +13,7 @@
 
 | Property | Data |
 |-|-|
-| **Language / IDE** | ![Lua Badge](https://img.shields.io/badge/-Lua-3776AB?style=flat&logo=Lua&logoColor=white) ![JS Badge](https://img.shields.io/badge/-JavaScript-3776AB?style=flat&logo=JavaScript&logoColor=white) ![Java Badge](https://img.shields.io/badge/-Java-3776AB?style=flat&logo=Oracle&logoColor=white) |
+| **Language / IDE** | ![Lua Badge](https://img.shields.io/badge/-Lua-3776AB?style=flat&logo=Lua&logoColor=white) ![JS Badge](https://img.shields.io/badge/-JavaScript-3776AB?style=flat&logo=JavaScript&logoColor=white) ![C# Badge](https://img.shields.io/badge/-CSharp-3776AB?style=flat&logo=CSharp&logoColor=white) ![Java Badge](https://img.shields.io/badge/-Java-3776AB?style=flat&logo=Oracle&logoColor=white) |
 | **Knowledge** | ![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white) ![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white) |
 | **CI / CD** | ![GitLab Badge](https://img.shields.io/badge/-Gitlab%20-orange?style=flat&logo=GitLab&logoColor=white) ![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white) ![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white) |
 | **Databases**                                   | ![MySQL Badge](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&amp;logoColor=white) ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-3776AB?style=flat&logo=MongoDB&logoColor=white) |
